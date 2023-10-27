@@ -1,0 +1,9 @@
+l=list()
+n=int(input("Enter number of elements to be inserted"))
+print("Enter ",n," elements")
+for i in range(n):
+   l.append(int(input())
+l.sort()
+print("after sorting")
+print(l)
+s=int(input("Enter search element")   
